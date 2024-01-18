@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "net.hananet.bns2.sharedcalendar_swt"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "net.hananet.bns2.sharedcalendar_swt"
